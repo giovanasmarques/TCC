@@ -1,0 +1,7 @@
+path: D:/Faculdade/5º sem - 2025/TCC/TCC - SGD/Youtube Gun Detection/tools
+train: images/train
+val: images/val
+
+names:
+  0: pessoa
+  1: arma
